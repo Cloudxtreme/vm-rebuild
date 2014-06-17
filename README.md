@@ -1,0 +1,1 @@
+This repository has been moved to [TheLadders/vmware-scripts](https://github.com/TheLadders/vmware-scripts)
